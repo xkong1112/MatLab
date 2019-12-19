@@ -16,7 +16,4 @@ Icon=/usr/local/MATLAB/Matlab.png
 Terminal=true
 Categories=Development;Matlab;
 ```
-where you need to download a Matlab icon and paste it in the MATLAB folder
-```
-Icon=/usr/local/MATLAB/Matlab.png
-```
+where you need to download a Matlab icon and paste it in the MATLAB folder and rename it to Matlab.png
